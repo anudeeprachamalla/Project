@@ -5,3 +5,8 @@ public static void main()
 System.out.println("welcome to java");
 }
 }
+
+public void m()
+{
+Sysout.out.println("welcome to java");
+}
